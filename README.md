@@ -113,8 +113,8 @@ Java, Spring Boot, databases, distributed systems, cloud and AI-assisted enginee
 | **03** ← *now* | Java + Git + OOP | Build Your Own Redis in Java |
 | **04** | Spring Boot + SQL | Write a Database from Scratch |
 | **05** | Security + Cloud + DevOps | Build Your Own Private Search Engine |
-| **06** | Microservices + Kafka | Build Self-Learning AI Agents (Python) |
-| **07** | System Design + AI Agents | C++ Compiler in C++ |
+| **06** | Microservices + Kafka | Event-Driven Payment Microservices |
+| **07** | System Design + AI Agents | Scalable URL Shortener |
 | **08** | Interviews + Capstone | Production-Grade Distributed Redis |
 
 → **[See the full roadmap with learning resources](https://ubaidafzal01.github.io/Ai-native-backend-roadmap/)**
