@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://ubaidafzal01.github.io/Ubaid-Afzal/">
-  <img src="assets/banner.svg" alt="Hey, I'm Ubaid Afzal: Software Engineer, Backend Engineer, Prompt Engineer" width="100%" />
+  <img src="assets/banner.svg" alt="Hey, I'm Ubaid Afzal, Backend Engineer" width="100%" />
 </a>
 
 <br />
@@ -24,6 +24,8 @@ to sharpen my prompt engineering, and I learn best by building real projects.
 📍 Chiniot, Pakistan &nbsp;·&nbsp; 🎓 BSCS, FAST NUCES (2025 – 2029) &nbsp;·&nbsp; 🚀 Founder @ Mealopia
 
 <img src="assets/stats.svg" alt="3rd semester at FAST · 2+ years coding · 150+ problems solved · 8+ projects built" width="100%" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 💼 Projects
 
@@ -90,46 +92,16 @@ to sharpen my prompt engineering, and I learn best by building real projects.
   </tr>
 </table>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 🧰 Skills
 
-<table>
-  <tr>
-    <td width="170"><b>💻 Languages</b></td>
-    <td>
-      <img src="assets/tech/cplusplus.svg" height="40" alt="C++" title="C++" />&nbsp;
-      <img src="assets/tech/javascript.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;
-      <img src="assets/tech/html5.svg" height="40" alt="HTML" title="HTML" />&nbsp;
-      <img src="assets/tech/css3.svg" height="40" alt="CSS" title="CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend &amp; Cloud</b></td>
-    <td>
-      <img src="assets/tech/nodejs.svg" height="40" alt="Node.js" title="Node.js" />&nbsp;
-      <img src="assets/tech/firebase.svg" height="40" alt="Firebase" title="Firebase" />&nbsp;
-      <img src="assets/tech/googlecloud.svg" height="40" alt="Cloud Functions" title="Cloud Functions" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🛠️ Tools</b></td>
-    <td>
-      <img src="assets/tech/git.svg" height="40" alt="Git" title="Git" />&nbsp;
-      <img src="assets/tech/github.svg" height="40" alt="GitHub" title="GitHub" />&nbsp;
-      <img src="assets/tech/vscode.svg" height="40" alt="VS Code" title="VS Code" />&nbsp;
-      <img src="assets/tech/vercel.svg" height="40" alt="Vercel" title="Vercel" />&nbsp;
-      <img src="assets/tech/figma.svg" height="40" alt="Figma" title="Figma" />&nbsp;
-      <img src="assets/tech/claude.svg" height="40" alt="Claude" title="Claude" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🧠 Core CS</b></td>
-    <td>Data Structures &amp; Algorithms · OOP · Digital Logic Design (DLD) · Computer Organization &amp; Assembly Language (COAL) · REST APIs</td>
-  </tr>
-  <tr>
-    <td><b>🌍 I speak</b></td>
-    <td>English · Urdu · Punjabi</td>
-  </tr>
-</table>
+<img src="assets/skills.svg" alt="Languages: C++, JavaScript, HTML, CSS. Backend and cloud: Node.js, Firebase, Cloud Functions. Tools: Git, GitHub, VS Code, Vercel, Figma, Claude." width="100%" />
+
+**🧠 Core CS:** Data Structures &amp; Algorithms · OOP · Digital Logic Design (DLD) · Computer Organization &amp; Assembly Language (COAL) · REST APIs<br />
+**🌍 I speak:** English · Urdu · Punjabi
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🗺️ What I'm working towards
 
@@ -147,11 +119,15 @@ Java, Spring Boot, databases, distributed systems, cloud and AI-assisted enginee
 
 👉 **[See the full roadmap with learning resources](https://ubaidafzal01.github.io/Ai-native-backend-roadmap/)**
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 🎮 Outside of code
 
 🎮 **Gaming**: my favourite way to unwind after a long day of classes and code.<br />
 ✈️ **Travelling**: exploring new cities and places whenever I get the chance.<br />
 💻 **Coding**: yes, even for fun: side projects, experiments and late-night problem solving.
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contributions
 
@@ -160,11 +136,13 @@ Java, Spring Boot, databases, distributed systems, cloud and AI-assisted enginee
   <img src="https://raw.githubusercontent.com/ubaidafzal01/ubaidafzal01/output/github-snake.svg" alt="Snake eating my GitHub contribution graph" width="100%" />
 </picture>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 📫 Let's connect
 
 <div align="center">
 
-Have a project, an internship or just want to say hi? My inbox is always open.
+<a href="mailto:ubaidafzal117@gmail.com"><img src="assets/footer.svg" alt="Let's build something together" width="100%" /></a>
 
 **[ubaidafzal117@gmail.com](mailto:ubaidafzal117@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/ubaid-afzal-06483137b/)** &nbsp;·&nbsp; **[WhatsApp](https://wa.me/923097894707)** &nbsp;·&nbsp; **[Portfolio](https://ubaidafzal01.github.io/Ubaid-Afzal/)**
 

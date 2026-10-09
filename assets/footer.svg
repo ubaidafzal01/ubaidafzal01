@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Let's build something together">
+  <style>
+    text { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .big { font-size: 40px; font-weight: 800; fill: #09090b; letter-spacing: -1px; }
+    .small { font-size: 17px; fill: #52525b; }
+  </style>
+  <defs>
+    <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".45" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity=".15"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff"/><stop offset=".5" stop-color="#e4e4e7"/><stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="fc"><rect width="1200" height="230" rx="30"/></clipPath>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  </defs>
+  <g clip-path="url(#fc)">
+    <rect width="1200" height="230" fill="#fff"/>
+    <path d="M0 170 Q -225 154 -150 170 Q -75 186 0 170 Q 75 154 150 170 Q 225 186 300 170 Q 375 154 450 170 Q 525 186 600 170 Q 675 154 750 170 Q 825 186 900 170 Q 975 154 1050 170 Q 1125 186 1200 170 Q 1275 154 1350 170 Q 1425 186 1500 170 L 1500 230 L -300 230 Z" fill="url(#w1)" opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="9s" begin="-0s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 185 Q -225 173 -150 185 Q -75 197 0 185 Q 75 173 150 185 Q 225 197 300 185 Q 375 173 450 185 Q 525 197 600 185 Q 675 173 750 185 Q 825 197 900 185 Q 975 173 1050 185 Q 1125 197 1200 185 Q 1275 173 1350 185 Q 1425 197 1500 185 L 1500 230 L -300 230 Z" fill="url(#w1)" opacity="0.35">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="6s" begin="-2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 200 Q -225 191 -150 200 Q -75 209 0 200 Q 75 191 150 200 Q 225 209 300 200 Q 375 191 450 200 Q 525 209 600 200 Q 675 191 750 200 Q 825 209 900 200 Q 975 191 1050 200 Q 1125 209 1200 200 Q 1275 191 1350 200 Q 1425 209 1500 200 L 1500 230 L -300 230 Z" fill="url(#w1)" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-300 0" dur="4.5s" begin="-1s" repeatCount="indefinite"/>
+    </path>
+    <rect width="1200" height="115.0" fill="url(#sheen)" opacity=".5"/>
+    <text x="600.0" y="86" text-anchor="middle" class="big">Let's build something together ✨</text>
+    <text x="600.0" y="122" text-anchor="middle" class="small">Internships · collaborations · or just a hello. My inbox is always open.</text>
+    <rect x="-320" y="-230" width="160" height="690" fill="url(#gloss)" transform="skewX(-20)">
+      <animate attributeName="x" values="-320;1520;1520" keyTimes="0;.45;1" dur="7s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="228.5" rx="29.5" fill="none" stroke="#e4e4e7" stroke-width="1.5"/>
+</svg>
