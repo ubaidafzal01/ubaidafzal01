@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://ubaidafzal01.github.io/Ubaid-Afzal/">
-  <img src="assets/banner.svg" alt="Hey, I'm Ubaid Afzal, Backend Engineer" width="100%" />
+  <img src="assets/hero.svg" alt="Hey, I'm Ubaid Afzal, Backend Engineer" width="100%" />
 </a>
 
 <br />
@@ -96,7 +96,7 @@ to sharpen my prompt engineering, and I learn best by building real projects.
 
 ## 🧰 Skills
 
-<img src="assets/skills.svg" alt="Languages: C++, JavaScript, HTML, CSS. Backend and cloud: Node.js, Firebase, Cloud Functions. Tools: Git, GitHub, VS Code, Vercel, Figma, Claude." width="100%" />
+<img src="assets/skills-panel.svg" alt="Languages: C++, JavaScript, HTML, CSS. Backend and cloud: Node.js, Firebase, Cloud Functions. Tools: Git, GitHub, VS Code, Vercel, Figma, Claude." width="100%" />
 
 **🧠 Core CS:** Data Structures &amp; Algorithms · OOP · Digital Logic Design (DLD) · Computer Organization &amp; Assembly Language (COAL) · REST APIs<br />
 **🌍 I speak:** English · Urdu · Punjabi
