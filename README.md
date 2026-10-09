@@ -14,31 +14,31 @@
 
 </div>
 
-## 😊 About me
+## About me
 
 I'm Ubaid, a Computer Science student at **FAST University** and the founder of **[Mealopia](https://mealopia.com)**.
 I'm building strong fundamentals in data structures & algorithms, OOP and how computers work under the hood (DLD and COAL),
 while getting hands-on with backend development using Node.js and Firebase. I also enjoy working with AI tools like Claude
 to sharpen my prompt engineering, and I learn best by building real projects.
 
-📍 Chiniot, Pakistan &nbsp;·&nbsp; 🎓 BSCS, FAST NUCES (2025 – 2029) &nbsp;·&nbsp; 🚀 Founder @ Mealopia
+Chiniot, Pakistan &nbsp;·&nbsp; BSCS, FAST NUCES (2025 – 2029) &nbsp;·&nbsp; Founder @ Mealopia
 
 <img src="assets/stats.svg" alt="3rd semester at FAST · 2+ years coding · 150+ problems solved · 8+ projects built" width="100%" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 💼 Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://mealopia.com"><img src="assets/projects/mealopia.png" alt="Mealopia logo" width="100%" /></a>
-      <h3>🍔 Mealopia &nbsp;<img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" alt="Live" /> <img src="https://img.shields.io/badge/Founder-e4e4e7?style=flat-square" alt="Founder" /></h3>
+      <h3>Mealopia &nbsp;<img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" alt="Live" /> <img src="https://img.shields.io/badge/Founder-e4e4e7?style=flat-square" alt="Founder" /></h3>
       My food &amp; grocery delivery startup, live in Chiniot. Four Flutter apps (Customer, Restaurant, Rider, Admin) running on a Firebase and Cloud Functions backend.
       <br /><br />
       <code>Flutter</code> <code>Firebase</code> <code>Cloud Functions</code> <code>Node.js</code>
       <br /><br />
-      <a href="https://mealopia.com"><b>🌐 Website</b></a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.mealopia.app"><b>📱 Google Play</b></a>
+      <a href="https://mealopia.com"><b>Website ↗</b></a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.mealopia.app"><b>Google Play ↗</b></a>
       <details>
         <summary><b>What I built</b></summary>
         <br />
@@ -52,12 +52,12 @@ to sharpen my prompt engineering, and I learn best by building real projects.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ubaidafzal01/QUIZ-GAME-IN-CPP"><img src="assets/projects/quiz.svg" alt="C++ Quiz Game: Terminal Trivia" width="100%" /></a>
-      <h3>🧠 C++ Quiz Game &nbsp;<img src="https://img.shields.io/badge/University-2nd_semester-e4e4e7?style=flat-square" alt="University, 2nd semester" /></h3>
+      <h3>C++ Quiz Game &nbsp;<img src="https://img.shields.io/badge/University-2nd_semester-e4e4e7?style=flat-square" alt="University, 2nd semester" /></h3>
       A console trivia game with 5 categories, 3 difficulty levels, a 10-second timer, lifelines and a 2-player mode. Built in a team of three.
       <br /><br />
       <code>C++</code> <code>File Handling</code> <code>Sorting</code> <code>Team of 3</code>
       <br /><br />
-      <a href="https://github.com/ubaidafzal01/QUIZ-GAME-IN-CPP"><b>💻 Code</b></a>
+      <a href="https://github.com/ubaidafzal01/QUIZ-GAME-IN-CPP"><b>Code ↗</b></a>
       <details>
         <summary><b>My part</b></summary>
         <br />
@@ -73,37 +73,37 @@ to sharpen my prompt engineering, and I learn best by building real projects.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ubaidafzal01/FLEXIN-SHOE-BRAND-WEBSITE-FINAL-PROJECT-ICT"><img src="assets/projects/flexin.jpg" alt="Flexin shoe store homepage" width="100%" /></a>
-      <h3>👟 Flexin: Shoe Brand Website &nbsp;<img src="https://img.shields.io/badge/University-1st_semester-e4e4e7?style=flat-square" alt="University, 1st semester" /></h3>
+      <h3>Flexin: Shoe Brand Website &nbsp;<img src="https://img.shields.io/badge/University-1st_semester-e4e4e7?style=flat-square" alt="University, 1st semester" /></h3>
       A multi-page, responsive shoe store with Men, Women and Kids collections, a hero image slider, a mobile menu and a dark/light theme.
       <br /><br />
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Responsive</code>
       <br /><br />
-      <a href="https://github.com/ubaidafzal01/FLEXIN-SHOE-BRAND-WEBSITE-FINAL-PROJECT-ICT"><b>💻 Code</b></a>
+      <a href="https://github.com/ubaidafzal01/FLEXIN-SHOE-BRAND-WEBSITE-FINAL-PROJECT-ICT"><b>Code ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ubaidafzal01/Laham-cattle-farm.com"><img src="assets/projects/laham.jpg" alt="Laham Cattle Farm website" width="100%" /></a>
-      <h3>🐄 Laham Cattle Farm &nbsp;<img src="https://img.shields.io/badge/Client_project-e4e4e7?style=flat-square" alt="Client project" /></h3>
+      <h3>Laham Cattle Farm &nbsp;<img src="https://img.shields.io/badge/Client_project-e4e4e7?style=flat-square" alt="Client project" /></h3>
       A showcase website for a local cattle farm, presenting their Qurbani animals and premium meat supply, with a gallery, a location map and a contact form.
       <br /><br />
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code>
       <br /><br />
-      <a href="https://github.com/ubaidafzal01/Laham-cattle-farm.com"><b>💻 Code</b></a>
+      <a href="https://github.com/ubaidafzal01/Laham-cattle-farm.com"><b>Code ↗</b></a>
     </td>
   </tr>
 </table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🧰 Skills
+## Skills
 
 <img src="assets/skills-panel.svg" alt="Languages: C++, JavaScript, HTML, CSS. Backend and cloud: Node.js, Firebase, Cloud Functions. Tools: Git, GitHub, VS Code, Vercel, Figma, Claude." width="100%" />
 
-**🧠 Core CS:** Data Structures &amp; Algorithms · OOP · Digital Logic Design (DLD) · Computer Organization &amp; Assembly Language (COAL) · REST APIs<br />
-**🌍 I speak:** English · Urdu · Punjabi
+**Core CS:** Data Structures &amp; Algorithms · OOP · Digital Logic Design (DLD) · Computer Organization &amp; Assembly Language (COAL) · REST APIs<br />
+**I speak:** English · Urdu · Punjabi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🗺️ What I'm working towards
+## What I'm working towards
 
 I'm following my own six-semester plan to become an **AI-native backend systems engineer**:
 Java, Spring Boot, databases, distributed systems, cloud and AI-assisted engineering.
@@ -117,19 +117,19 @@ Java, Spring Boot, databases, distributed systems, cloud and AI-assisted enginee
 | **07** | System Design + AI Agents | Fintech Operations Platform with AI Assistant |
 | **08** | Interviews + Capstone | Production-Style Fintech Backend Platform |
 
-👉 **[See the full roadmap with learning resources](https://ubaidafzal01.github.io/Ai-native-backend-roadmap/)**
+→ **[See the full roadmap with learning resources](https://ubaidafzal01.github.io/Ai-native-backend-roadmap/)**
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🎮 Outside of code
+## Outside of code
 
-🎮 **Gaming**: my favourite way to unwind after a long day of classes and code.<br />
-✈️ **Travelling**: exploring new cities and places whenever I get the chance.<br />
-💻 **Coding**: yes, even for fun: side projects, experiments and late-night problem solving.
+**Gaming**: my favourite way to unwind after a long day of classes and code.<br />
+**Travelling**: exploring new cities and places whenever I get the chance.<br />
+**Coding**: yes, even for fun: side projects, experiments and late-night problem solving.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🐍 Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubaidafzal01/ubaidafzal01/output/github-snake-dark.svg" />
@@ -138,11 +138,11 @@ Java, Spring Boot, databases, distributed systems, cloud and AI-assisted enginee
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📫 Let's connect
+## Let's connect
 
 <div align="center">
 
-<a href="mailto:ubaidafzal117@gmail.com"><img src="assets/footer.svg" alt="Let's build something together" width="100%" /></a>
+<a href="mailto:ubaidafzal117@gmail.com"><img src="assets/footer-card.svg" alt="Let's build something together" width="100%" /></a>
 
 **[ubaidafzal117@gmail.com](mailto:ubaidafzal117@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/ubaid-afzal-06483137b/)** &nbsp;·&nbsp; **[WhatsApp](https://wa.me/923097894707)** &nbsp;·&nbsp; **[Portfolio](https://ubaidafzal01.github.io/Ubaid-Afzal/)**
 
