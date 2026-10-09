@@ -110,12 +110,12 @@ Java, Spring Boot, databases, distributed systems, cloud and AI-assisted enginee
 
 | Sem | Focus | Final project |
 | :-: | --- | --- |
-| **03** ← *now* | Java + Git + OOP | Java Banking Management System |
-| **04** | Spring Boot + SQL | Banking REST API |
-| **05** | Security + Cloud + DevOps | Cloud-Deployed Banking Backend |
-| **06** | Microservices + Kafka | Distributed Payment Processing Simulator |
-| **07** | System Design + AI Agents | Fintech Operations Platform with AI Assistant |
-| **08** | Interviews + Capstone | Production-Style Fintech Backend Platform |
+| **03** ← *now* | Java + Git + OOP | Build Your Own Redis in Java |
+| **04** | Spring Boot + SQL | Write a Database from Scratch |
+| **05** | Security + Cloud + DevOps | Build Your Own Private Search Engine |
+| **06** | Microservices + Kafka | Build Self-Learning AI Agents (Python) |
+| **07** | System Design + AI Agents | C++ Compiler in C++ |
+| **08** | Interviews + Capstone | Production-Grade Distributed Redis |
 
 → **[See the full roadmap with learning resources](https://ubaidafzal01.github.io/Ai-native-backend-roadmap/)**
 
