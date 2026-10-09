@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://ubaidafzal01.github.io/Ubaid-Afzal/">
-  <img src="assets/hero.svg" alt="Hey, I'm Ubaid Afzal, Backend Engineer" width="100%" />
+  <img src="assets/hero-banner.svg" alt="Hey, I'm Ubaid Afzal, Backend Engineer" width="100%" />
 </a>
 
 <br />
